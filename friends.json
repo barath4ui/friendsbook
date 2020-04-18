@@ -1,0 +1,20 @@
+[
+  {
+    "Friend_ID": 1,
+    "Friend_Name": "Sriram",
+    "Friend_Location": "Chennai",
+    "Friend_Mobile" : 9994226829
+  },
+  {
+    "Friend_ID": 2,
+    "Friend_Name": "Sivaguru",
+    "Friend_Location": "Kumbakonam",
+    "Friend_Mobile" : 9790287690
+  },
+  {
+    "Friend_ID": 3,
+    "Friend_Name": "Manimaran",
+    "Friend_Location": "Karupur",
+    "Friend_Mobile" : 9791750661
+  }
+]
